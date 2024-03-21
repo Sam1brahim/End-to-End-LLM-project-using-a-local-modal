@@ -12,7 +12,7 @@
      
 # --------------------------------------------------------------
 
-     Technology Implementation Guide Generator
+Technology Implementation Guide Generator
 
 This repository hosts the code for a Streamlit-based web application that leverages the langchain_community.llms 'Ollama' module to interact with a custom Local Large Language Model (LLM), specifically "dolphin-mistral". This model is designed to be adept at coding-related tasks, building upon the capabilities of the Mistral model.
 
