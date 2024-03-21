@@ -8,7 +8,7 @@
 
 
 ## Remark : 
-     Make Sure you run inside your terminal of vscode : 'ollama run yourmodel' so that you can download it ( you can find available models here : https://ollama.com/library ). then write '/bye' to exit the model, then launch the web app with the command : streamlit run main.py
+Make Sure you run inside your terminal of vscode : 'ollama run yourmodel' so that you can download it ( you can find available models here : https://ollama.com/library ). then write '/bye' to exit the model, then launch the web app with the command : streamlit run main.py
      
 # --------------------------------------------------------------
 
