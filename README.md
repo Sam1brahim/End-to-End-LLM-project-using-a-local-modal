@@ -14,7 +14,7 @@
 
      Technology Implementation Guide Generator
 
-     This repository hosts the code for a Streamlit-based web application that leverages the langchain_community.llms 'Ollama' module to interact with a custom Local Large Language Model (LLM), specifically "dolphin-mistral". This model is designed to be adept at coding-related tasks, building upon the capabilities of the Mistral model.
+This repository hosts the code for a Streamlit-based web application that leverages the langchain_community.llms 'Ollama' module to interact with a custom Local Large Language Model (LLM), specifically "dolphin-mistral". This model is designed to be adept at coding-related tasks, building upon the capabilities of the Mistral model.
 
 The application prompts the LLM to generate detailed, beginner-friendly guides for implementing various technologies on different operating systems. The response is tailored using a prompt template to ensure clarity and thoroughness, making it an ideal starting point for users unfamiliar with the technology they wish to implement.
 
