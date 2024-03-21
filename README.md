@@ -1,4 +1,4 @@
-# End-to-End-LLM-project-using-a-local-model-with-Ollama-from-Langchain Community 
+# End-to-End-LLM-project-using-a-local-model-with-Ollama-from-Langchain-Community 
 
 Technology Implementation Guide Generator
 
