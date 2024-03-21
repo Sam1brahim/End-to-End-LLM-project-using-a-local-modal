@@ -5,7 +5,7 @@
 #### ollama
 #### langchain
 #### streamlit
-
+#### your local LLM 
 
 ## Remark : 
 Make Sure you run inside your terminal of vscode : 'ollama run yourmodel' so that you can download it ( you can find available models here : https://ollama.com/library ). then write '/bye' to exit the model, then launch the web app with the command : streamlit run main.py
@@ -25,4 +25,3 @@ Key features:
     Intuitive Streamlit interface for inputting technology and operating system choices
     Responsive guide output for technology implementation, aimed at beginners
 
-Whether you're looking to set up a server, start with Docker, or explore programming frameworks, this tool offers step-by-step instructions crafted by an AI knowledgeable in coding practices. It's perfect for newcomers looking to dive into the tech world with guidance at their fingertips.
